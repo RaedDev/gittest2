@@ -1,0 +1,8 @@
+{
+    "version": "2.0.17",
+    "app": {
+        "name": "gittest2",
+        "package_name": "com.example.gittest2"
+    },
+    "main": {}
+}
