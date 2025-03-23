@@ -20,13 +20,13 @@ class HomePage extends StatelessWidget {
           alignment: const Alignment(0.0, 0.0),
           children: [
             Positioned(
-              top: 75.0,
-              left: 91.5,
+              top: 102.0,
+              left: 64.0,
               width: 210.0,
               height: 199.0,
               child: Container(
                 decoration: BoxDecoration(
-                    color: Color(0xffc4c4c4),
+                    color: const Color(0xffc4c4c4),
                     borderRadius: BorderRadius.circular(0.0)),
               ),
             )
